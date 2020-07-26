@@ -1,0 +1,53 @@
+.divouter
+{
+margin: 10px;
+padding: 10px;
+width: 300px;
+height: auto;
+border: 1px solid;
+box-shadow: 5px 4px 4px 5px #888888;
+}
+
+.divinner
+{
+padding: 5px;
+width: 288px;
+height: auto;
+border:1px;
+border-style: groove;
+
+}
+.listitem
+{
+font-weight: bold;
+}
+
+.liststyle
+{
+list-style-type:none;
+text-align: left;
+font-family: Helvetica;
+list-style-position: inside;
+padding-left: 0px;
+}
+
+.parastyle1
+{
+font-family: Helvetica;
+}
+
+.parastyle2
+{
+font-family: Helvetica;
+font-style:italic;
+}
+
+.header
+{
+font-family: Helvetica;
+}
+.img-size
+{
+width: 300px;
+margin:5px, 5px, 5px, 5px;
+}
